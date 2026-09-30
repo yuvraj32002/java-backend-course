@@ -15,5 +15,7 @@ public class first{
         String str="12";
         int num3=Integer.parseInt(str);
         System.out.println(num3*3);
+
+        System.out.println("Abhi ye wala change kiya hai.");
     }
 }

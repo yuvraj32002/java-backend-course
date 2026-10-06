@@ -33,3 +33,4 @@ public class first {
 
 // Actually Status is a class here and all four are objects of...class status.
 // running, failed, pending, sucess are final constant;
+// we cannot extend enum like a class.
